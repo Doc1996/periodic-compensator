@@ -24,22 +24,22 @@
 
 <b>Step 3.</b>&nbsp;&nbsp;Implementing the model without controller
 <br>
-<p align="center"><img src="images%20for%20GitHub/model%20without%20controller.png" width="640px"></p>
+<p align="center"><img src="images%20for%20GitHub/model%20without%20controller.png" width="660px"></p>
 <br>
 
 <b>Step 4.</b>&nbsp;&nbsp;Implementing the model with nonlinear PID controller
 <br>
-<p align="center"><img src="images%20for%20GitHub/model%20with%20controller.png" width="640px"></p>
+<p align="center"><img src="images%20for%20GitHub/model%20with%20controller.png" width="660px"></p>
 <br>
 
 <b>Step 5.</b>&nbsp;&nbsp;Implementing the model with nonlinear PID controller and periodic compensator
 <br>
-<p align="center"><img src="images%20for%20GitHub/model%20with%20controller%20and%20periodic%20compensator.png" width="640px"></p>
+<p align="center"><img src="images%20for%20GitHub/model%20with%20controller%20and%20periodic%20compensator.png" width="660px"></p>
 <br>
 
 <b>Step 6.</b>&nbsp;&nbsp;Implementing the model with nonlinear PID controller, periodic compensator and frequency estimator
 <br>
-<p align="center"><img src="images%20for%20GitHub/model%20with%20controller,%20periodic%20compensator%20and%20frequency%20estimator.png" width="640px"></p>
+<p align="center"><img src="images%20for%20GitHub/model%20with%20controller,%20periodic%20compensator%20and%20frequency%20estimator.png" width="660px"></p>
 <br>
 
 <b>Step 7.</b>&nbsp;&nbsp;Analyzing the results for different implementations and parameters
